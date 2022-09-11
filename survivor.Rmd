@@ -1,0 +1,21 @@
+---
+title: "Analysis of Survivor"
+author: "Karina Chen"
+date: "July 2022"
+output: pdf_document
+urlcolor: blue
+---
+
+```{r}
+library(survivoR)
+```
+
+```{r}
+head(vote_history)
+#df <- apply(challenge_results,2,as.character)
+#df
+```
+
+```{r}
+write.csv(vote_history, "C:\\Users\\karin\\Desktop\\survivor\\data\\vote_history.csv", row.names = FALSE)
+```

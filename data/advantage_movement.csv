@@ -1,0 +1,406 @@
+"version","version_season","season_name","season","castaway","castaway_id","advantage_id","sequence_id","day","episode","event","played_for","played_for_id","success","votes_nullified"
+"US","US11","Survivor: Guatemala",11,"Gary","US0161","USSI1101",1,24,9,"Found",NA,NA,NA,NA
+"US","US11","Survivor: Guatemala",11,"Gary","US0161","USSI1101",2,24,9,"Played","Gary","US0161","Yes",0
+"US","US12","Survivor: Panama",12,"Terry","US0180","USSI1201",1,9,4,"Found",NA,NA,NA,NA
+"US","US12","Survivor: Panama",12,"Terry","US0180","USSI1201",2,37,15,"Expired",NA,NA,NA,NA
+"US","US13","Survivor: Cook Islands",13,"Yul","US0202","USSI1301",1,5,2,"Found",NA,NA,NA,NA
+"US","US13","Survivor: Cook Islands",13,"Yul","US0202","USSI1301",2,37,15,"Expired",NA,NA,NA,NA
+"US","US14","Survivor: Fiji",14,"Yau-Man","US0218","USHI1401",1,17,7,"Found",NA,NA,NA,NA
+"US","US14","Survivor: Fiji",14,"Yau-Man","US0218","USHI1401",2,36,13,"Played","Yau-Man","US0218","Yes",4
+"US","US14","Survivor: Fiji",14,"Mookie","US0214","USHI1402",1,20,8,"Found",NA,NA,NA,NA
+"US","US14","Survivor: Fiji",14,"Alex","US0215","USHI1402",2,27,10,"Received",NA,NA,NA,NA
+"US","US14","Survivor: Fiji",14,"Alex","US0215","USHI1402",3,27,10,"Played","Alex","US0215","Not needed",0
+"US","US14","Survivor: Fiji",14,"Earl","US0221","USHI1403",1,36,13,"Found",NA,NA,NA,NA
+"US","US14","Survivor: Fiji",14,"Earl","US0221","USHI1403",2,37,14,"Played","Earl","US0221","Not needed",0
+"US","US15","Survivor: China",15,"Todd","US0237","USHI1501",1,18,6,"Found",NA,NA,NA,NA
+"US","US15","Survivor: China",15,"James","US0231","USHI1501",2,18,6,"Received",NA,NA,NA,NA
+"US","US15","Survivor: China",15,"James","US0231","USHI1501",3,30,11,"Voted out with advantage",NA,NA,NA,NA
+"US","US15","Survivor: China",15,"James","US0231","USHI1502",1,19,7,"Found",NA,NA,NA,NA
+"US","US15","Survivor: China",15,"James","US0231","USHI1502",2,30,11,"Voted out with advantage",NA,NA,NA,NA
+"US","US16","Survivor: Micronesia",16,"Ozzy","US0201","USHI1601",1,9,4,"Found",NA,NA,NA,NA
+"US","US16","Survivor: Micronesia",16,"Ozzy","US0201","USHI1601",2,27,10,"Voted out with advantage",NA,NA,NA,NA
+"US","US16","Survivor: Micronesia",16,"Jason","US0244","USHI1602",1,29,11,"Found",NA,NA,NA,NA
+"US","US16","Survivor: Micronesia",16,"Jason","US0244","USHI1602",2,30,11,"Voted out with advantage",NA,NA,NA,NA
+"US","US16","Survivor: Micronesia",16,"Amanda","US0235","USHI1603",1,33,12,"Found",NA,NA,NA,NA
+"US","US16","Survivor: Micronesia",16,"Amanda","US0235","USHI1603",2,33,12,"Played","Amanda","US0235","Yes",4
+"US","US17","Survivor: Gabon",17,"Sugar","US0263","USHI1701",1,7,2,"Found",NA,NA,NA,NA
+"US","US17","Survivor: Gabon",17,"Ace","US0254","USHI1701",2,16,5,"Received",NA,NA,NA,NA
+"US","US17","Survivor: Gabon",17,"Sugar","US0263","USHI1701",3,18,5,"Received",NA,NA,NA,NA
+"US","US17","Survivor: Gabon",17,"Sugar","US0263","USHI1701",4,36,12,"Played","Matty","US0262","Not needed",2
+"US","US17","Survivor: Gabon",17,"Marcus","US0256","USHI1702",1,22,7,"Found",NA,NA,NA,NA
+"US","US17","Survivor: Gabon",17,"Marcus","US0256","USHI1702",2,24,7,"Voted out with advantage",NA,NA,NA,NA
+"US","US18","Survivor: Tocantins",18,"Brendan","US0273","USHI1801",1,9,3,"Found",NA,NA,NA,NA
+"US","US18","Survivor: Tocantins",18,"Brendan","US0273","USHI1801",2,24,9,"Voted out with advantage",NA,NA,NA,NA
+"US","US18","Survivor: Tocantins",18,"Taj","US0278","USHI1802",1,13,5,"Found",NA,NA,NA,NA
+"US","US18","Survivor: Tocantins",18,"Stephen","US0280","USHI1802",2,13,5,"Received",NA,NA,NA,NA
+"US","US18","Survivor: Tocantins",18,"Stephen","US0280","USHI1802",3,37,14,"Expired",NA,NA,NA,NA
+"US","US19","Survivor: Samoa",19,"Russell H.","US0300","USHI1901",1,4,2,"Found",NA,NA,NA,NA
+"US","US19","Survivor: Samoa",19,"Russell H.","US0300","USHI1901",2,21,8,"Played","Russell H.","US0300","Not needed",0
+"US","US19","Survivor: Samoa",19,"Erik","US0290","USHI1902",1,9,4,"Found",NA,NA,NA,NA
+"US","US19","Survivor: Samoa",19,"Erik","US0290","USHI1902",2,21,8,"Voted out with advantage",NA,NA,NA,NA
+"US","US19","Survivor: Samoa",19,"Russell H.","US0300","USHI1903",1,22,9,"Found",NA,NA,NA,NA
+"US","US19","Survivor: Samoa",19,"Russell H.","US0300","USHI1903",2,24,9,"Played","Russell H.","US0300","Yes",7
+"US","US19","Survivor: Samoa",19,"Russell H.","US0300","USHI1904",1,25,10,"Found",NA,NA,NA,NA
+"US","US19","Survivor: Samoa",19,"Russell H.","US0300","USHI1904",2,37,15,"Expired",NA,NA,NA,NA
+"US","US20","Survivor: Heroes vs. Villains",20,"Tom","US0150","USHI2001",1,10,4,"Found",NA,NA,NA,NA
+"US","US20","Survivor: Heroes vs. Villains",20,"Tom","US0150","USHI2001",2,11,4,"Played","Tom","US0150","Yes",3
+"US","US20","Survivor: Heroes vs. Villains",20,"Russell","US0300","USHI2002",1,10,4,"Found",NA,NA,NA,NA
+"US","US20","Survivor: Heroes vs. Villains",20,"Russell","US0300","USHI2002",2,15,6,"Played","Parvati","US0197","Yes",4
+"US","US20","Survivor: Heroes vs. Villains",20,"J.T.","US0281","USHI2003",1,19,8,"Found",NA,NA,NA,NA
+"US","US20","Survivor: Heroes vs. Villains",20,"Russell","US0300","USHI2003",2,24,9,"Received",NA,NA,NA,NA
+"US","US20","Survivor: Heroes vs. Villains",20,"Parvati","US0197","USHI2003",3,27,10,"Received",NA,NA,NA,NA
+"US","US20","Survivor: Heroes vs. Villains",20,"Parvati","US0197","USHI2003",4,27,10,"Played","Sandra","US0112","Not needed",0
+"US","US20","Survivor: Heroes vs. Villains",20,"Parvati","US0197","USHI2004",1,23,9,"Found",NA,NA,NA,NA
+"US","US20","Survivor: Heroes vs. Villains",20,"Parvati","US0197","USHI2004",2,27,10,"Played","Jerri","US0025","Yes",5
+"US","US20","Survivor: Heroes vs. Villains",20,"Russell","US0300","USHI2005",1,29,11,"Found",NA,NA,NA,NA
+"US","US20","Survivor: Heroes vs. Villains",20,"Russell","US0300","USHI2005",2,30,11,"Played","Russell","US0300","Not needed",0
+"US","US20","Survivor: Heroes vs. Villains",20,"Sandra","US0112","USHI2006",1,31,12,"Found",NA,NA,NA,NA
+"US","US20","Survivor: Heroes vs. Villains",20,"Sandra","US0112","USHI2006",2,36,13,"Played","Sandra","US0112","Not needed",2
+"US","US21","Survivor: Nicaragua",21,"Marty","US0311","USHI2101",1,6,2,"Found",NA,NA,NA,NA
+"US","US21","Survivor: Nicaragua",21,"Sash","US0319","USHI2101",2,18,7,"Received",NA,NA,NA,NA
+"US","US21","Survivor: Nicaragua",21,"Sash","US0319","USHI2101",3,36,14,"Played","Sash","US0319","Not needed",1
+"US","US21","Survivor: Nicaragua",21,"NaOnka","US0313","USHI2102",1,9,4,"Found",NA,NA,NA,NA
+"US","US21","Survivor: Nicaragua",21,"Chase","US0320","USHI2102",2,28,11,"Received",NA,NA,NA,NA
+"US","US21","Survivor: Nicaragua",21,"Chase","US0320","USHI2102",3,28,12,"Received",NA,NA,NA,NA
+"US","US21","Survivor: Nicaragua",21,"Chase","US0320","USHI2102",4,36,14,"Played","Chase","US0320","Not needed",0
+"US","US22","Survivor: Redemption Island",22,"Kristina","US0324","USHI2201",1,1,1,"Found",NA,NA,NA,NA
+"US","US22","Survivor: Redemption Island",22,"Kristina","US0324","USHI2201",2,5,2,"Played","Kristina","US0324","Not needed",2
+"US","US22","Survivor: Redemption Island",22,"Ralph","US0331","USHI2202",1,4,2,"Found",NA,NA,NA,NA
+"US","US22","Survivor: Redemption Island",22,"Ralph","US0331","USHI2202",2,21,8,"Played","Mike","US0328","Not needed",0
+"US","US22","Survivor: Redemption Island",22,"Boston Rob","US0055","USHI2203",1,10,4,"Found",NA,NA,NA,NA
+"US","US22","Survivor: Redemption Island",22,"Boston Rob","US0055","USHI2203",2,37,14,"Played","Boston Rob","US0055","Not needed",1
+"US","US23","Survivor: South Pacific",23,"Ozzy","US0201","USHI2301",1,4,2,"Found",NA,NA,NA,NA
+"US","US23","Survivor: South Pacific",23,"Cochran","US0348","USHI2301",2,18,7,"Received",NA,NA,NA,NA
+"US","US23","Survivor: South Pacific",23,"Ozzy","US0201","USHI2301",3,19,8,"Received",NA,NA,NA,NA
+"US","US23","Survivor: South Pacific",23,"Ozzy","US0201","USHI2301",4,21,8,"Played","Whitney","US0347","Not needed",0
+"US","US23","Survivor: South Pacific",23,"Coach","US0277","USHI2302",1,12,5,"Found",NA,NA,NA,NA
+"US","US23","Survivor: South Pacific",23,"Coach","US0277","USHI2302",2,37,15,"Expired",NA,NA,NA,NA
+"US","US24","Survivor: One World",24,"Sabrina","US0370","USHI2401",1,2,1,"Found",NA,NA,NA,NA
+"US","US24","Survivor: One World",24,"Colton","US0359","USHI2401",2,3,1,"Received",NA,NA,NA,NA
+"US","US24","Survivor: One World",24,"Colton","US0359","USHI2401",3,16,6,"Voted out with advantage",NA,NA,NA,NA
+"US","US24","Survivor: One World",24,"Kim","US0371","USHI2402",1,14,5,"Found",NA,NA,NA,NA
+"US","US24","Survivor: One World",24,"Kim","US0371","USHI2402",2,37,14,"Expired",NA,NA,NA,NA
+"US","US24","Survivor: One World",24,"Troyzan","US0364","USHI2403",1,19,7,"Found",NA,NA,NA,NA
+"US","US24","Survivor: One World",24,"Troyzan","US0364","USHI2403",2,25,9,"Played","Troyzan","US0364","Not needed",2
+"US","US25","Survivor: Philippines",25,"Jonathan","US0196","USHI2501",1,4,2,"Found",NA,NA,NA,NA
+"US","US25","Survivor: Philippines",25,"Jonathan","US0196","USHI2501",2,19,7,"Played","Jonathan","US0196","Yes",5
+"US","US25","Survivor: Philippines",25,"Abi-Maria","US0383","USHI2502",1,8,3,"Found",NA,NA,NA,NA
+"US","US25","Survivor: Philippines",25,"Abi-Maria","US0383","USHI2502",2,27,10,"Played","Abi-Maria","US0383","Yes",3
+"US","US25","Survivor: Philippines",25,"Malcolm","US0384","USHI2503",1,11,5,"Found",NA,NA,NA,NA
+"US","US25","Survivor: Philippines",25,"Malcolm","US0384","USHI2503",2,37,14,"Expired",NA,NA,NA,NA
+"US","US26","Survivor: Caramoan",26,"Reynold","US0394","USHI2601",1,4,2,"Found",NA,NA,NA,NA
+"US","US26","Survivor: Caramoan",26,"Reynold","US0394","USHI2601",2,10,4,"Played","Reynold","US0394","Not needed",1
+"US","US26","Survivor: Caramoan",26,"Malcolm","US0384","USHI2602",1,6,3,"Found",NA,NA,NA,NA
+"US","US26","Survivor: Caramoan",26,"Malcolm","US0384","USHI2602",2,28,10,"Played","Malcolm","US0384","Not needed",2
+"US","US26","Survivor: Caramoan",26,"Reynold","US0394","USHI2603",1,11,5,"Found",NA,NA,NA,NA
+"US","US26","Survivor: Caramoan",26,"Reynold","US0394","USHI2603",2,25,9,"Played","Malcolm","US0384","Not needed",0
+"US","US26","Survivor: Caramoan",26,"Malcolm","US0384","USHI2604",1,28,10,"Found",NA,NA,NA,NA
+"US","US26","Survivor: Caramoan",26,"Malcolm","US0384","USHI2604",2,28,10,"Played","Eddie","US0395","Yes",4
+"US","US26","Survivor: Caramoan",26,"Erik","US0246","USHI2605",1,31,12,"Found",NA,NA,NA,NA
+"US","US26","Survivor: Caramoan",26,"Andrea","US0333","USHI2605",2,31,12,"Received",NA,NA,NA,NA
+"US","US26","Survivor: Caramoan",26,"Andrea","US0333","USHI2605",3,33,12,"Voted out with advantage",NA,NA,NA,NA
+"US","US27","Survivor: Blood vs. Water",27,"Tyson","US0274","USHI2701",1,19,8,"Found",NA,NA,NA,NA
+"US","US27","Survivor: Blood vs. Water",27,"Tyson","US0274","USHI2701",2,29,11,"Played","Tyson","US0274","Not needed",0
+"US","US27","Survivor: Blood vs. Water",27,"Tyson","US0274","USHI2702",1,30,12,"Found",NA,NA,NA,NA
+"US","US27","Survivor: Blood vs. Water",27,"Tyson","US0274","USHI2702",2,37,14,"Played","Gervase","US0010","Not needed",2
+"US","US28","Survivor: Cagayan",28,"Garrett","US0408","USHI2801",1,1,1,"Found",NA,NA,NA,NA
+"US","US28","Survivor: Cagayan",28,"Garrett","US0408","USHI2801",2,6,1,"Voted out with advantage",NA,NA,NA,NA
+"US","US28","Survivor: Cagayan",28,"Tony","US0424","USHI2802",1,6,1,"Found",NA,NA,NA,NA
+"US","US28","Survivor: Cagayan",28,"Tony","US0424","USHI2802",2,19,6,"Played","LJ","US0416","Not needed",0
+"US","US28","Survivor: Cagayan",28,"LJ","US0416","USHI2803",1,7,2,"Found",NA,NA,NA,NA
+"US","US28","Survivor: Cagayan",28,"LJ","US0416","USHI2803",2,19,6,"Played","Tony","US0424","Not needed",0
+"US","US28","Survivor: Cagayan",28,"Spencer","US0421","USHI2804",1,20,7,"Found",NA,NA,NA,NA
+"US","US28","Survivor: Cagayan",28,"Spencer","US0421","USHI2804",2,28,9,"Played","Spencer","US0421","Not needed",0
+"US","US28","Survivor: Cagayan",28,"Tony","US0424","USSI2805",1,28,9,"Found",NA,NA,NA,NA
+"US","US28","Survivor: Cagayan",28,"Tony","US0424","USSI2805",2,37,13,"Expired",NA,NA,NA,NA
+"US","US28","Survivor: Cagayan",28,"Tony","US0424","USHI2806",1,29,10,"Found",NA,NA,NA,NA
+"US","US28","Survivor: Cagayan",28,"Tony","US0424","USHI2806",2,36,12,"Played","Tony","US0424","Not needed",0
+"US","US29","Survivor: San Juan del Sur",29,"John","US0427","USHI2901",1,6,2,"Found",NA,NA,NA,NA
+"US","US29","Survivor: San Juan del Sur",29,"John","US0427","USHI2901",2,8,3,"Voted out with advantage",NA,NA,NA,NA
+"US","US29","Survivor: San Juan del Sur",29,"Keith","US0439","USHI2902",1,9,4,"Found",NA,NA,NA,NA
+"US","US29","Survivor: San Juan del Sur",29,"Keith","US0439","USHI2902",2,26,10,"Played","Keith","US0439","Yes",3
+"US","US29","Survivor: San Juan del Sur",29,"Jon","US0437","USHI2903",1,19,8,"Found",NA,NA,NA,NA
+"US","US29","Survivor: San Juan del Sur",29,"Jon","US0437","USHI2903",2,26,10,"Played","Jon","US0437","Yes",4
+"US","US29","Survivor: San Juan del Sur",29,"Natalie","US0442","USHI2904",1,25,10,"Found",NA,NA,NA,NA
+"US","US29","Survivor: San Juan del Sur",29,"Natalie","US0442","USHI2904",2,37,14,"Played","Jaclyn","US0441","Yes",3
+"US","US29","Survivor: San Juan del Sur",29,"Jon","US0437","USHI2905",1,27,11,"Found",NA,NA,NA,NA
+"US","US29","Survivor: San Juan del Sur",29,"Jon","US0437","USHI2905",2,35,13,"Voted out with advantage",NA,NA,NA,NA
+"US","US30","Survivor: Worlds Apart",30,"Dan","US0455","USEV3001",1,25,10,"Found",NA,NA,NA,NA
+"US","US30","Survivor: Worlds Apart",30,"Dan","US0455","USEV3001",2,35,13,"Played","Carolyn","US0459","No",NA
+"US","US30","Survivor: Worlds Apart",30,"Carolyn","US0459","USHI3001",1,2,1,"Found",NA,NA,NA,NA
+"US","US30","Survivor: Worlds Apart",30,"Carolyn","US0459","USHI3001",2,35,13,"Played","Carolyn","US0459","Yes",5
+"US","US30","Survivor: Worlds Apart",30,"Jenn","US0452","USHI3002",1,9,4,"Found",NA,NA,NA,NA
+"US","US30","Survivor: Worlds Apart",30,"Jenn","US0452","USHI3002",2,19,7,"Played","Jenn","US0452","Yes",7
+"US","US30","Survivor: Worlds Apart",30,"Mike","US0460","USHI3003",1,21,8,"Found",NA,NA,NA,NA
+"US","US30","Survivor: Worlds Apart",30,"Mike","US0460","USHI3003",2,32,12,"Played","Mike","US0460","Yes",4
+"US","US31","Survivor: Cambodia",31,"Kelley","US0429","USHI3101",1,3,1,"Found",NA,NA,NA,NA
+"US","US31","Survivor: Cambodia",31,"Kelley","US0429","USHI3101",2,21,8,"Played","Kelley","US0429","Yes",9
+"US","US31","Survivor: Cambodia",31,"Jeremy","US0433","USHI3102",1,9,3,"Found",NA,NA,NA,NA
+"US","US31","Survivor: Cambodia",31,"Jeremy","US0433","USHI3102",2,26,10,"Played","Stephen","US0280","Yes",5
+"US","US31","Survivor: Cambodia",31,"Jeremy","US0433","USHI3103",1,22,9,"Found",NA,NA,NA,NA
+"US","US31","Survivor: Cambodia",31,"Jeremy","US0433","USHI3103",2,36,14,"Played","Jeremy","US0433","Yes",3
+"US","US31","Survivor: Cambodia",31,"Kelley","US0429","USHI3104",1,28,11,"Found",NA,NA,NA,NA
+"US","US31","Survivor: Cambodia",31,"Kelley","US0429","USHI3104",2,36,14,"Played","Kelley","US0429","Yes",3
+"US","US31","Survivor: Cambodia",31,"Stephen","US0280","USVS3101",1,24,9,"Found",NA,NA,NA,NA
+"US","US31","Survivor: Cambodia",31,"Stephen","US0280","USVS3101",2,29,11,"Played","Joe","US0451","No",NA
+"US","US32","Survivor: Kaoh Rong",32,"Tai","US0476","USEV3201",1,25,10,"Found",NA,NA,NA,NA
+"US","US32","Survivor: Kaoh Rong",32,"Tai","US0476","USEV3201",2,32,12,"Played","Michele","US0478","No",NA
+"US","US32","Survivor: Kaoh Rong",32,"Tai","US0476","USHI3201",1,7,3,"Found",NA,NA,NA,NA
+"US","US32","Survivor: Kaoh Rong",32,"Tai","US0476","USHI3201",2,37,14,"Expired",NA,NA,NA,NA
+"US","US32","Survivor: Kaoh Rong",32,"Jason","US0473","USHI3202",1,7,3,"Found",NA,NA,NA,NA
+"US","US32","Survivor: Kaoh Rong",32,"Scot","US0471","USHI3202",2,27,10,"Received",NA,NA,NA,NA
+"US","US32","Survivor: Kaoh Rong",32,"Scot","US0471","USHI3202",3,27,10,"Voted out with advantage",NA,NA,NA,NA
+"US","US32","Survivor: Kaoh Rong",32,"Neal","US0468","USHI3203",1,12,5,"Found",NA,NA,NA,NA
+"US","US32","Survivor: Kaoh Rong",32,"Neal","US0468","USHI3203",2,19,7,"Voted out with advantage",NA,NA,NA,NA
+"US","US33","Survivor: Millennials vs. Gen X",33,"Jessica","US0489","USHI3301",1,1,1,"Found",NA,NA,NA,NA
+"US","US33","Survivor: Millennials vs. Gen X",33,"Ken","US0497","USHI3301",2,30,10,"Received",NA,NA,NA,NA
+"US","US33","Survivor: Millennials vs. Gen X",33,"Ken","US0497","USHI3301",3,36,13,"Played","Ken","US0497","Not needed",1
+"US","US33","Survivor: Millennials vs. Gen X",33,"David","US0495","USHI3302",1,5,2,"Found",NA,NA,NA,NA
+"US","US33","Survivor: Millennials vs. Gen X",33,"David","US0495","USHI3302",2,12,4,"Played","Jessica","US0489","Yes",5
+"US","US33","Survivor: Millennials vs. Gen X",33,"Adam","US0498","USHI3303",1,11,4,"Found",NA,NA,NA,NA
+"US","US33","Survivor: Millennials vs. Gen X",33,"Adam","US0498","USHI3303",2,33,11,"Played","Hannah","US0496","Not needed",4
+"US","US33","Survivor: Millennials vs. Gen X",33,"David","US0495","USHI3304",1,13,5,"Found",NA,NA,NA,NA
+"US","US33","Survivor: Millennials vs. Gen X",33,"David","US0495","USHI3304",2,30,10,"Played","Ken","US0497","Not needed",0
+"US","US33","Survivor: Millennials vs. Gen X",33,"Jay","US0493","USHI3305",1,16,6,"Found",NA,NA,NA,NA
+"US","US33","Survivor: Millennials vs. Gen X",33,"Jay","US0493","USHI3305",2,35,12,"Played","Jay","US0493","Not needed",1
+"US","US33","Survivor: Millennials vs. Gen X",33,"Adam","US0498","USHI3306",1,37,13,"Found",NA,NA,NA,NA
+"US","US33","Survivor: Millennials vs. Gen X",33,"Adam","US0498","USHI3306",2,37,13,"Played","Adam","US0498","Not needed",0
+"US","US33","Survivor: Millennials vs. GenX",33,"Adam","US0498","USRS3301",1,21,8,"Found",NA,NA,NA,NA
+"US","US33","Survivor: Millennials vs. GenX",33,"Jay","US0493","USRS3301",2,31,11,"Received",NA,NA,NA,NA
+"US","US33","Survivor: Millennials vs. GenX",33,"Jay","US0493","USRS3301",3,36,13,"Played",NA,NA,"Yes",NA
+"US","US34","Survivor: Game Changers",34,"Debbie","US0470","USEV3401",1,14,5,"Found",NA,NA,NA,NA
+"US","US34","Survivor: Game Changers",34,"Debbie","US0470","USEV3401",2,24,7,"Played","Ozzy","US0201","Not needed",NA
+"US","US34","Survivor: Game Changers",34,"Sierra","US0456","USHI3401",1,1,1,"Found",NA,NA,NA,NA
+"US","US34","Survivor: Game Changers",34,"Sarah","US0414","USHI3401",2,32,10,"Received",NA,NA,NA,NA
+"US","US34","Survivor: Game Changers",34,"Sarah","US0414","USHI3401",3,36,12,"Played","Sarah","US0414","Yes",3
+"US","US34","Survivor: Game Changers",34,"Troyzan","US0364","USHI3402",1,9,2,"Found",NA,NA,NA,NA
+"US","US34","Survivor: Game Changers",34,"Troyzan","US0364","USHI3402",2,36,12,"Played","Troyzan","US0364","Not needed",0
+"US","US34","Survivor: Game Changers",34,"Tai","US0476","USHI3403",1,11,3,"Found",NA,NA,NA,NA
+"US","US34","Survivor: Game Changers",34,"Tai","US0476","USHI3403",2,11,3,"Played","Sierra","US0456","Yes",6
+"US","US34","Survivor: Game Changers",34,"J.T.","US0281","USHI3404",1,12,4,"Found",NA,NA,NA,NA
+"US","US34","Survivor: Game Changers",34,"J.T.","US0281","USHI3404",2,13,4,"Voted out with advantage",NA,NA,NA,NA
+"US","US34","Survivor: Game Changers",34,"Tai","US0476","USHI3405",1,14,5,"Found",NA,NA,NA,NA
+"US","US34","Survivor: Game Changers",34,"Tai","US0476","USHI3405",2,36,12,"Played","Tai","US0476","Yes",2
+"US","US34","Survivor: Game Changers",34,"Tai","US0476","USHI3406",1,14,5,"Found",NA,NA,NA,NA
+"US","US34","Survivor: Game Changers",34,"Tai","US0476","USHI3406",2,36,12,"Played","Aubry","US0477","Yes",1
+"US","US34","Survivor: Game Changers",34,"Sarah","US0414","USVS3401",1,25,8,"Found",NA,NA,NA,NA
+"US","US34","Survivor: Game Changers",34,"Sarah","US0414","USVS3401",2,35,11,"Played","Tai","US0476","Yes",NA
+"US","US35","Survivor: Heroes vs. Healers vs. Hustlers",35,"Lauren","US0510","USEV3501",1,20,8,"Found",NA,NA,NA,NA
+"US","US35","Survivor: Heroes vs. Healers vs. Hustlers",35,"Lauren","US0510","USEV3501",2,33,11,"Voted out with advantage",NA,NA,NA,NA
+"US","US35","Survivor: Heroes vs. Healers vs. Hustlers",35,"Ryan","US0514","USSI3501",1,1,1,"Found",NA,NA,NA,NA
+"US","US35","Survivor: Heroes vs. Healers vs. Hustlers",35,"Chrissy","US0515","USSI3501",2,3,1,"Received",NA,NA,NA,NA
+"US","US35","Survivor: Heroes vs. Healers vs. Hustlers",35,"Chrissy","US0515","USSI3501",3,37,13,"Expired",NA,NA,NA,NA
+"US","US35","Survivor: Heroes vs. Healers vs. Hustlers",35,"Joe","US0509","USHI3502",1,5,2,"Found",NA,NA,NA,NA
+"US","US35","Survivor: Heroes vs. Healers vs. Hustlers",35,"Joe","US0509","USHI3502",2,11,4,"Played","Joe","US0509","Yes",2
+"US","US35","Survivor: Heroes vs. Healers vs. Hustlers",35,"Mike","US0512","USHI3503",1,13,5,"Found",NA,NA,NA,NA
+"US","US35","Survivor: Heroes vs. Healers vs. Hustlers",35,"Mike","US0512","USHI3503",2,24,9,"Played","Mike","US0512","Not needed",2
+"US","US35","Survivor: Heroes vs. Healers vs. Hustlers",35,"Joe","US0509","USHI3504",1,15,6,"Found",NA,NA,NA,NA
+"US","US35","Survivor: Heroes vs. Healers vs. Hustlers",35,"Joe","US0509","USHI3504",2,19,7,"Played","Joe","US0509","Not needed",0
+"US","US35","Survivor: Heroes vs. Healers vs. Hustlers",35,"Ryan","US0514","USHI3505",1,20,8,"Found",NA,NA,NA,NA
+"US","US35","Survivor: Heroes vs. Healers vs. Hustlers",35,"Ryan","US0514","USHI3505",2,30,10,"Played","Ryan","US0514","Not needed",2
+"US","US35","Survivor: Heroes vs. Healers vs. Hustlers",35,"Ben","US0516","USHI3506",1,27,10,"Found",NA,NA,NA,NA
+"US","US35","Survivor: Heroes vs. Healers vs. Hustlers",35,"Ben","US0516","USHI3506",2,33,11,"Played","Ben","US0516","Yes",6
+"US","US35","Survivor: Heroes vs. Healers vs. Hustlers",35,"Lauren","US0510","USHI3507",1,31,11,"Found",NA,NA,NA,NA
+"US","US35","Survivor: Heroes vs. Healers vs. Hustlers",35,"Lauren","US0510","USHI3507",2,33,11,"Activated",NA,NA,NA,NA
+"US","US35","Survivor: Heroes vs. Healers vs. Hustlers",35,"Lauren","US0510","USHI3507",3,33,11,"Voted out with advantage",NA,NA,NA,NA
+"US","US35","Survivor: Heroes vs. Healers vs. Hustlers",35,"Lauren","US0510","USHI3507b",1,33,11,"Found",NA,NA,NA,NA
+"US","US35","Survivor: Heroes vs. Healers vs. Hustlers",35,"Mike","US0512","USHI3507b",2,33,11,"Received",NA,NA,NA,NA
+"US","US35","Survivor: Heroes vs. Healers vs. Hustlers",35,"Mike","US0512","USHI3507b",3,37,11,"Destroyed",NA,NA,NA,NA
+"US","US35","Survivor: Heroes vs. Healers vs. Hustlers",35,"Ben","US0516","USHI3508",1,36,12,"Found",NA,NA,NA,NA
+"US","US35","Survivor: Heroes vs. Healers vs. Hustlers",35,"Ben","US0516","USHI3508",2,36,12,"Played","Ben","US0516","Not needed",0
+"US","US35","Survivor: Heroes vs. Healers vs. Hustlers",35,"Ben","US0516","USHI3509",1,37,13,"Found",NA,NA,NA,NA
+"US","US35","Survivor: Heroes vs. Healers vs. Hustlers",35,"Ben","US0516","USHI3509",2,37,13,"Played","Ben","US0516","Yes",3
+"US","US35","Survivor: Heroes vs. Healers vs. Hustlers",35,"Jessica","US0505","USVB3501",1,9,4,"Found",NA,NA,NA,NA
+"US","US35","Survivor: Heroes vs. Healers vs. Hustlers",35,"Jessica","US0505","USVB3501",2,11,4,"Played","Devon","US0513","Yes",NA
+"US","US36","Survivor: Ghost Island",36,"Kellyn","US0530","USEV3601",1,18,6,"Found",NA,NA,NA,NA
+"US","US36","Survivor: Ghost Island",36,"Kellyn","US0530","USEV3601",2,29,10,"Played","Laurel","US0534","No",NA
+"US","US36","Survivor: Ghost Island",36,"Sebastian","US0531","USEV3602",1,33,12,"Found",NA,NA,NA,NA
+"US","US36","Survivor: Ghost Island",36,"Sebastian","US0531","USEV3602",2,36,13,"Voted out with advantage",NA,NA,NA,NA
+"US","US36","Survivor: Ghost Island",36,"Jacob","US0518","USHI3601",1,3,1,"Found",NA,NA,NA,NA
+"US","US36","Survivor: Ghost Island",36,"Morgan","US0519","USHI3601",2,4,1,"Received",NA,NA,NA,NA
+"US","US36","Survivor: Ghost Island",36,"Domenick","US0535","USHI3601",3,9,2,"Received",NA,NA,NA,NA
+"US","US36","Survivor: Ghost Island",36,"Domenick","US0535","USHI3601",4,22,7,"Played","Domenick","US0535","Not needed",0
+"US","US36","Survivor: Ghost Island",36,"Domenick","US0535","USHI3602",1,4,1,"Found",NA,NA,NA,NA
+"US","US36","Survivor: Ghost Island",36,"Domenick","US0535","USHI3602",2,37,13,"Played","Domenick","US0535","Not needed",0
+"US","US36","Survivor: Ghost Island",36,"Michael","US0528","USHI3603",1,8,2,"Found",NA,NA,NA,NA
+"US","US36","Survivor: Ghost Island",36,"Michael","US0528","USHI3603",2,12,3,"Played","Stephanie","US0521","Not needed",0
+"US","US36","Survivor: Ghost Island",36,"Michael","US0528","USHI3604",1,18,6,"Found",NA,NA,NA,NA
+"US","US36","Survivor: Ghost Island",36,"Michael","US0528","USHI3604",2,25,8,"Played","Michael","US0528","Yes",7
+"US","US36","Survivor: Ghost Island",36,"Wendell","US0536","USHI3605",1,18,6,"Found",NA,NA,NA,NA
+"US","US36","Survivor: Ghost Island",36,"Wendell","US0536","USHI3605",2,37,13,"Played","Laurel","US0534","Not needed",1
+"US","US36","Survivor: Ghost Island",36,"Chris","US0524","USHI3606",1,20,7,"Found",NA,NA,NA,NA
+"US","US36","Survivor: Ghost Island",36,"Chris","US0524","USHI3606",2,22,7,"Voted out with advantage",NA,NA,NA,NA
+"US","US36","Survivor: Ghost Island",36,"Donathan","US0532","USHI3607",1,27,9,"Found",NA,NA,NA,NA
+"US","US36","Survivor: Ghost Island",36,"Donathan","US0532","USHI3607",2,27,9,"Activated",NA,NA,NA,NA
+"US","US36","Survivor: Ghost Island",36,"Donathan","US0532","USHI3607",3,29,10,"Played","Donathan","US0532","Not needed",1
+"US","US36","Survivor: Ghost Island",36,"Donathan","US0532","USHI3607b",1,27,9,"Found",NA,NA,NA,NA
+"US","US36","Survivor: Ghost Island",36,"Donathan","US0532","USHI3607b",2,29,10,"Absorbed",NA,NA,NA,NA
+"US","US37","Survivor: David vs. Goliath",37,"Dan","US0546","USHI3701",1,2,1,"Found",NA,NA,NA,NA
+"US","US37","Survivor: David vs. Goliath",37,"Dan","US0546","USHI3701",2,22,8,"Played","Angelina","US0554","Not needed",2
+"US","US37","Survivor: David vs. Goliath",37,"Davie","US0551","USHI3702",1,4,2,"Found",NA,NA,NA,NA
+"US","US37","Survivor: David vs. Goliath",37,"Davie","US0551","USHI3702",2,22,8,"Played","Christian","US0550","Yes",7
+"US","US37","Survivor: David vs. Goliath",37,"Dan","US0546","USHI3703",1,15,5,"Found",NA,NA,NA,NA
+"US","US37","Survivor: David vs. Goliath",37,"Dan","US0546","USHI3703",2,25,9,"Played","Dan","US0546","No",0
+"US","US37","Survivor: David vs. Goliath",37,"Christian","US0550","USHI3704",1,24,9,"Found",NA,NA,NA,NA
+"US","US37","Survivor: David vs. Goliath",37,"Christian","US0550","USHI3704",2,32,11,"Played","Christian","US0550","Yes",5
+"US","US37","Survivor: David vs. Goliath",37,"Nick","US0556","USHI3705",1,26,10,"Found",NA,NA,NA,NA
+"US","US37","Survivor: David vs. Goliath",37,"Nick","US0556","USHI3705",2,35,12,"Played","Nick","US0556","Not needed",0
+"US","US37","Survivor: David vs. Goliath",37,"Davie","US0551","USHI3706",1,34,12,"Found",NA,NA,NA,NA
+"US","US37","Survivor: David vs. Goliath",37,"Davie","US0551","USHI3706",2,35,12,"Played","Davie","US0551","Not needed",2
+"US","US37","Survivor: David vs. Goliath",37,"Angelina","US0554","USHI3707",1,36,13,"Found",NA,NA,NA,NA
+"US","US37","Survivor: David vs. Goliath",37,"Angelina","US0554","USHI3707",2,37,13,"Played","Angelina","US0554","Not needed",0
+"US","US37","Survivor: David vs. Goliath",37,"Carl","US0548","USIN3701",1,10,4,"Found",NA,NA,NA,NA
+"US","US37","Survivor: David vs. Goliath",37,"Carl","US0548","USIN3701",2,25,9,"Played","Dan","US0546","Yes",NA
+"US","US37","Survivor: David vs. Goliath",37,"Nick","US0556","USVS3701",1,21,7,"Found",NA,NA,NA,NA
+"US","US37","Survivor: David vs. Goliath",37,"Nick","US0556","USVS3701",2,25,9,"Played","Alison","US0552","Yes",NA
+"US","US38","Survivor: Edge of Extinction",38,"Ron","US0565","USAD3801",1,1,1,"Found",NA,NA,NA,NA
+"US","US38","Survivor: Edge of Extinction",38,"Ron","US0565","USAD3801",2,8,3,"Expired",NA,NA,NA,NA
+"US","US38","Survivor: Edge of Extinction",38,"Rick","US0560","USEV3801",1,13,5,"Found",NA,NA,NA,NA
+"US","US38","Survivor: Edge of Extinction",38,"Aubry","US0477","USEV3801",2,13,5,"Received",NA,NA,NA,NA
+"US","US38","Survivor: Edge of Extinction",38,"Aubry","US0477","USEV3801",3,13,5,"Voted out with advantage",NA,NA,NA,NA
+"US","US38","Survivor: Edge of Extinction",38,"Aubry","US0477","USEV3802",1,21,7,"Found",NA,NA,NA,NA
+"US","US38","Survivor: Edge of Extinction",38,"Aurora","US0566","USEV3802",2,21,7,"Received",NA,NA,NA,NA
+"US","US38","Survivor: Edge of Extinction",38,"Ron","US0565","USEV3802",3,27,9,"Received",NA,NA,NA,NA
+"US","US38","Survivor: Edge of Extinction",38,"Aurora","US0566","USEV3802",4,28,10,"Received",NA,NA,NA,NA
+"US","US38","Survivor: Edge of Extinction",38,"Gavin","US0570","USEV3802",5,28,10,"Received",NA,NA,NA,NA
+"US","US38","Survivor: Edge of Extinction",38,"Gavin","US0570","USEV3802",6,31,11,"Played","Ron","US0565","Not needed",NA
+"US","US38","Survivor: Edge of Extinction",38,"Lauren","US0568","USHI3801",1,4,2,"Found",NA,NA,NA,NA
+"US","US38","Survivor: Edge of Extinction",38,"Lauren","US0568","USHI3801",2,36,13,"Played","Chris","US0559","Not needed",1
+"US","US38","Survivor: Edge of Extinction",38,"Aubry","US0477","USHI3802",1,7,3,"Found",NA,NA,NA,NA
+"US","US38","Survivor: Edge of Extinction",38,"Aubry","US0477","USHI3802",2,13,5,"Voted out with advantage",NA,NA,NA,NA
+"US","US38","Survivor: Edge of Extinction",38,"Kelley","US0429","USHI3803",1,16,5,"Found",NA,NA,NA,NA
+"US","US38","Survivor: Edge of Extinction",38,"Kelley","US0429","USHI3803",2,27,9,"Voted out with advantage",NA,NA,NA,NA
+"US","US38","Survivor: Edge of Extinction",38,"Rick","US0560","USHI3804",1,18,6,"Found",NA,NA,NA,NA
+"US","US38","Survivor: Edge of Extinction",38,"Rick","US0560","USHI3804",2,23,8,"Played","David","US0495","Not needed",1
+"US","US38","Survivor: Edge of Extinction",38,"Rick","US0560","USHI3805",1,30,11,"Found",NA,NA,NA,NA
+"US","US38","Survivor: Edge of Extinction",38,"Rick","US0560","USHI3805",2,31,11,"Played","Rick","US0560","Yes",4
+"US","US38","Survivor: Edge of Extinction",38,"Rick","US0560","USHI3806",1,32,12,"Found",NA,NA,NA,NA
+"US","US38","Survivor: Edge of Extinction",38,"Rick","US0560","USHI3806",2,36,13,"Played","Rick","US0560","Yes",3
+"US","US38","Survivor: Edge of Extinction",38,"Chris","US0559","USHI3807",1,35,13,"Found",NA,NA,NA,NA
+"US","US38","Survivor: Edge of Extinction",38,"Chris","US0559","USHI3807",2,37,13,"Played","Chris","US0559","Yes",3
+"US","US38","Survivor: Edge of Extinction",38,"Rick","US0560","USHI3808",1,37,13,"Found",NA,NA,NA,NA
+"US","US38","Survivor: Edge of Extinction",38,"Gavin","US0570","USHI3808",2,37,13,"Received",NA,NA,NA,NA
+"US","US38","Survivor: Edge of Extinction",38,"Gavin","US0570","USHI3808",3,37,13,"Played","Gavin","US0570","Not needed",0
+"US","US39","Survivor: Island of the Idols",39,"Chelsea","US0574","USHI3901",1,4,2,"Found",NA,NA,NA,NA
+"US","US39","Survivor: Island of the Idols",39,"Chelsea","US0574","USHI3901",2,11,4,"Voted out with advantage",NA,NA,NA,NA
+"US","US39","Survivor: Island of the Idols",39,"Kellee","US0578","USHI3902",1,5,2,"Found",NA,NA,NA,NA
+"US","US39","Survivor: Island of the Idols",39,"Dean","US0589","USHI3902",2,19,7,"Received",NA,NA,NA,NA
+"US","US39","Survivor: Island of the Idols",39,"Dean","US0589","USHI3902",3,19,7,"Played","Dean","US0589","Yes",5
+"US","US39","Survivor: Island of the Idols",39,"Vince","US0573","USHI3903",1,7,3,"Found",NA,NA,NA,NA
+"US","US39","Survivor: Island of the Idols",39,"Vince","US0573","USHI3903",2,8,3,"Voted out with advantage",NA,NA,NA,NA
+"US","US39","Survivor: Island of the Idols",39,"Jamal","US0579","USHI3904",1,9,4,"Found",NA,NA,NA,NA
+"US","US39","Survivor: Island of the Idols",39,"Jamal","US0579","USHI3904",2,19,7,"Played","Noura","US0588","Not needed",0
+"US","US39","Survivor: Island of the Idols",39,"Kellee","US0578","USHI3905",1,20,8,"Found",NA,NA,NA,NA
+"US","US39","Survivor: Island of the Idols",39,"Kellee","US0578","USHI3905",2,22,8,"Voted out with advantage",NA,NA,NA,NA
+"US","US39","Survivor: Island of the Idols",39,"Kellee","US0578","USHI3906",1,22,8,"Found",NA,NA,NA,NA
+"US","US39","Survivor: Island of the Idols",39,"Kellee","US0578","USHI3906",2,22,8,"Voted out with advantage",NA,NA,NA,NA
+"US","US39","Survivor: Island of the Idols",39,"Janet","US0586","USHI3907",1,23,8,"Found",NA,NA,NA,NA
+"US","US39","Survivor: Island of the Idols",39,"Janet","US0586","USHI3907",2,24,8,"Played","Janet","US0586","Not needed",2
+"US","US39","Survivor: Island of the Idols",39,"Karishma","US0583","USHI3908",1,25,9,"Found",NA,NA,NA,NA
+"US","US39","Survivor: Island of the Idols",39,"Karishma","US0583","USHI3908",2,30,10,"Played","Karishma","US0583","Yes",7
+"US","US39","Survivor: Island of the Idols",39,"Lauren","US0587","USHI3909",1,30,10,"Found",NA,NA,NA,NA
+"US","US39","Survivor: Island of the Idols",39,"Lauren","US0587","USHI3909",2,30,10,"Played","Lauren","US0587","Not needed",0
+"US","US39","Survivor: Island of the Idols",39,"Elaine","US0584","USHI3910",1,31,11,"Found",NA,NA,NA,NA
+"US","US39","Survivor: Island of the Idols",39,"Elaine","US0584","USHI3910",2,32,11,"Played","Elaine","US0584","Not needed",0
+"US","US39","Survivor: Island of the Idols",39,"Janet","US0586","USHI3911",1,33,12,"Found",NA,NA,NA,NA
+"US","US39","Survivor: Island of the Idols",39,"Janet","US0586","USHI3911",2,37,13,"Played","Janet","US0586","Not needed",0
+"US","US39","Survivor: Island of the Idols",39,"Dean","US0589","USHI3912",1,36,13,"Found",NA,NA,NA,NA
+"US","US39","Survivor: Island of the Idols",39,"Dean","US0589","USHI3912",2,37,13,"Expired",NA,NA,NA,NA
+"US","US39","Survivor: Island of the Idols",39,"Dean","US0589","USIN3901",1,34,12,"Found",NA,NA,NA,NA
+"US","US39","Survivor: Island of the Idols",39,"Dean","US0589","USIN3901",2,37,13,"Played","Janet","US0586","Yes",NA
+"US","US39","Survivor: Island of the Idols",39,"Elaine","US0584","USVB3901",1,16,6,"Found",NA,NA,NA,NA
+"US","US39","Survivor: Island of the Idols",39,"Elaine","US0584","USVB3901",2,16,6,"Played","Jason","US0576","Yes",NA
+"US","US40","Survivor: Winners at War",40,"Natalie","US0442","USHI4001",1,3,1,"Found",NA,NA,NA,NA
+"US","US40","Survivor: Winners at War",40,"Sandra","US0112","USHI4001",2,3,1,"Received",NA,NA,NA,NA
+"US","US40","Survivor: Winners at War",40,"Denise","US0386","USHI4001",3,16,6,"Received",NA,NA,NA,NA
+"US","US40","Survivor: Winners at War",40,"Denise","US0386","USHI4001",4,16,6,"Played","Denise","US0386","Yes",4
+"US","US40","Survivor: Winners at War",40,"Denise","US0386","USHI4002",1,4,2,"Found",NA,NA,NA,NA
+"US","US40","Survivor: Winners at War",40,"Denise","US0386","USHI4002",2,4,2,"Activated",NA,NA,NA,NA
+"US","US40","Survivor: Winners at War",40,"Denise","US0386","USHI4002",3,16,6,"Played","Jeremy","US0433","Not needed",0
+"US","US40","Survivor: Winners at War",40,"Denise","US0386","USHI4002b",1,4,2,"Found",NA,NA,NA,NA
+"US","US40","Survivor: Winners at War",40,"Adam","US0498","USHI4002b",2,4,2,"Received",NA,NA,NA,NA
+"US","US40","Survivor: Winners at War",40,"Denise","US0386","USHI4002b",3,6,2,"Received",NA,NA,NA,NA
+"US","US40","Survivor: Winners at War",40,"Denise","US0386","USHI4002b",4,16,6,"Absorbed",NA,NA,NA,NA
+"US","US40","Survivor: Winners at War",40,"Kim","US0371","USHI4003",1,4,2,"Found",NA,NA,NA,NA
+"US","US40","Survivor: Winners at War",40,"Kim","US0371","USHI4003",3,25,10,"Played","Denise","US0386","Not needed",2
+"US","US40","Survivor: Winners at War",40,"Kim","US0371","USHI4003",2,25,10,"Activated",NA,NA,NA,NA
+"US","US40","Survivor: Winners at War",40,"Kim","US0371","USHI4003b",1,4,2,"Found",NA,NA,NA,NA
+"US","US40","Survivor: Winners at War",40,"Sophie","US0353","USHI4003b",2,4,2,"Received",NA,NA,NA,NA
+"US","US40","Survivor: Winners at War",40,"Kim","US0371","USHI4003b",3,25,10,"Received",NA,NA,NA,NA
+"US","US40","Survivor: Winners at War",40,"Kim","US0371","USHI4003b",4,25,10,"Absorbed",NA,NA,NA,NA
+"US","US40","Survivor: Winners at War",40,"Sophie","US0353","USHI4004",1,12,5,"Found",NA,NA,NA,NA
+"US","US40","Survivor: Winners at War",40,"Sophie","US0353","USHI4004",2,14,5,"Activated",NA,NA,NA,NA
+"US","US40","Survivor: Winners at War",40,"Sophie","US0353","USHI4004",3,28,11,"Voted out with advantage",NA,NA,NA,NA
+"US","US40","Survivor: Winners at War",40,"Sophie","US0353","USHI4004b",1,12,5,"Found",NA,NA,NA,NA
+"US","US40","Survivor: Winners at War",40,"Sarah","US0414","USHI4004b",2,12,5,"Received",NA,NA,NA,NA
+"US","US40","Survivor: Winners at War",40,"Sophie","US0353","USHI4004b",3,14,5,"Received",NA,NA,NA,NA
+"US","US40","Survivor: Winners at War",40,"Sophie","US0353","USHI4004b",4,14,5,"Absorbed",NA,NA,NA,NA
+"US","US40","Survivor: Winners at War",40,"Michele","US0478","USHI4005",1,22,9,"Found",NA,NA,NA,NA
+"US","US40","Survivor: Winners at War",40,"Jeremy","US0433","USHI4005",2,29,12,"Received",NA,NA,NA,NA
+"US","US40","Survivor: Winners at War",40,"Michele","US0478","USHI4005",3,30,13,"Received",NA,NA,NA,NA
+"US","US40","Survivor: Winners at War",40,"Michele","US0478","USHI4005",4,31,13,"Played","Michele","US0478","Not needed",2
+"US","US40","Survivor: Winners at War",40,"Tony","US0424","USHI4006",1,28,11,"Found",NA,NA,NA,NA
+"US","US40","Survivor: Winners at War",40,"Tony","US0424","USHI4006",2,36,14,"Played","Tony","US0424","Not needed",0
+"US","US40","Survivor: Winners at War",40,"Ben","US0516","USHI4007",1,29,12,"Found",NA,NA,NA,NA
+"US","US40","Survivor: Winners at War",40,"Ben","US0516","USHI4007",2,36,14,"Played","Ben","US0516","Not needed",2
+"US","US40","Survivor: Winners at War",40,"Natalie","US0442","USHI4008",1,35,14,"Found",NA,NA,NA,NA
+"US","US40","Survivor: Winners at War",40,"Natalie","US0442","USHI4008",2,36,14,"Played","Natalie","US0442","Yes",4
+"US","US40","Survivor: Winners at War",40,"Natalie","US0442","USHI4009",1,37,14,"Found",NA,NA,NA,NA
+"US","US40","Survivor: Winners at War",40,"Natalie","US0442","USHI4009",2,37,14,"Played","Natalie","US0442","Not needed",0
+"US","US40","Survivor: Winners at War",40,"Tyson","US0274","USIN4001",1,15,6,"Found",NA,NA,NA,NA
+"US","US40","Survivor: Winners at War",40,"Parvati","US0197","USIN4001",2,15,6,"Received",NA,NA,NA,NA
+"US","US40","Survivor: Winners at War",40,"Parvati","US0197","USIN4001",3,16,6,"Voted out with advantage",NA,NA,NA,NA
+"US","US40","Survivor: Winners at War",40,"Natalie","US0442","USVS4001",1,8,3,"Found",NA,NA,NA,NA
+"US","US40","Survivor: Winners at War",40,"Sarah","US0414","USVS4001",2,8,3,"Received",NA,NA,NA,NA
+"US","US40","Survivor: Winners at War",40,"Sarah","US0414","USVS4001",3,25,10,"Played","Denise","US0386","Yes",NA
+"US","US41","Survivor: 41",41,"Xander","US0597","USEV4101",1,2,1,"Found",NA,NA,NA,NA
+"US","US41","Survivor: 41",41,"Xander","US0597","USEV4101",2,21,11,"Played","Liana","US0608","Not needed",NA
+"US","US41","Survivor: 41",41,"JD","US0603","USEV4102",1,2,1,"Found",NA,NA,NA,NA
+"US","US41","Survivor: 41",41,"Shan","US0606","USEV4102",2,9,4,"Received",NA,NA,NA,NA
+"US","US41","Survivor: 41",41,"Ricard","US0596","USEV4102",3,9,4,"Received",NA,NA,NA,NA
+"US","US41","Survivor: 41",41,"Shan","US0606","USEV4102",4,11,5,"Received",NA,NA,NA,NA
+"US","US41","Survivor: 41",41,"Shan","US0606","USEV4102",5,17,9,"Played","Naseer","US0600","Not needed",NA
+"US","US41","Survivor: 41",41,"Deshawn","US0601","USEV4103",1,5,2,"Found",NA,NA,NA,NA
+"US","US41","Survivor: 41",41,"Deshawn","US0601","USEV4103",2,14,7,"Played","Evvie","US0598","No",NA
+"US","US41","Survivor: 41",41,"Xander","US0597","USHI4101",1,5,2,"Found",NA,NA,NA,NA
+"US","US41","Survivor: 41",41,"Xander","US0597","USHI4101",2,11,5,"Activated",NA,NA,NA,NA
+"US","US41","Survivor: 41",41,"Tiffany","US0604","USHI4101",3,14,7,"Received",NA,NA,NA,NA
+"US","US41","Survivor: 41",41,"Xander","US0597","USHI4101",4,16,8,"Received",NA,NA,NA,NA
+"US","US41","Survivor: 41",41,"Xander","US0597","USHI4101",5,24,13,"Played","Xander","US0597","Not needed",0
+"US","US41","Survivor: 41",41,"Brad","US0602","USHI4102",1,7,3,"Found",NA,NA,NA,NA
+"US","US41","Survivor: 41",41,"Brad","US0602","USHI4102",2,7,3,"Voted out with advantage",NA,NA,NA,NA
+"US","US41","Survivor: 41",41,"Shan","US0606","USHI4103",1,11,5,"Found",NA,NA,NA,NA
+"US","US41","Survivor: 41",41,"Shan","US0606","USHI4103",2,11,5,"Activated",NA,NA,NA,NA
+"US","US41","Survivor: 41",41,"Shan","US0606","USHI4103",3,19,10,"Voted out with advantage",NA,NA,NA,NA
+"US","US41","Survivor: 41",41,"Naseer","US0600","USHI4104",1,11,5,"Found",NA,NA,NA,NA
+"US","US41","Survivor: 41",41,"Naseer","US0600","USHI4104",2,11,5,"Activated",NA,NA,NA,NA
+"US","US41","Survivor: 41",41,"Naseer","US0600","USHI4104",3,17,9,"Voted out with advantage",NA,NA,NA,NA
+"US","US41","Survivor: 41",41,"Liana","US0608","USKP4101",1,11,5,"Found",NA,NA,NA,NA
+"US","US41","Survivor: 41",41,"Liana","US0608","USKP4101",2,14,7,"Played","Xander","US0597","No",NA
+"US","US41","Survivor: 41",41,"Brad","US0602","USVS4101",1,6,3,"Found",NA,NA,NA,NA
+"US","US41","Survivor: 41",41,"Brad","US0602","USVS4101",2,7,3,"Voted out with advantage",NA,NA,NA,NA
+"US","US42","Survivor: 42",42,"Drea","US0611","USAM4201",1,1,1,"Found",NA,NA,NA,NA
+"US","US42","Survivor: 42",42,"Hai","US0612","USAM4202",1,1,1,"Found",NA,NA,NA,NA
+"US","US42","Survivor: 42",42,"Hai","US0612","USAM4202",2,19,10,"Voted out with advantage",NA,NA,NA,NA
+"US","US42","Survivor: 42",42,"Lindsay","US0616","USAM4203",1,1,1,"Found",NA,NA,NA,NA
+"US","US42","Survivor: 42",42,"Drea","US0611","USEV4201",1,3,1,"Found",NA,NA,NA,NA
+"US","US42","Survivor: 42",42,"Maryanne","US0619","USEV4202",1,5,2,"Found",NA,NA,NA,NA
+"US","US42","Survivor: 42",42,"Mike","US0620","USHI4201",1,4,2,"Found",NA,NA,NA,NA
+"US","US42","Survivor: 42",42,"Mike","US0620","USHI4201",2,10,5,"Activated",NA,NA,NA,NA
+"US","US42","Survivor: 42",42,"Maryanne","US0619","USHI4202",1,6,3,"Found",NA,NA,NA,NA
+"US","US42","Survivor: 42",42,"Maryanne","US0619","USHI4202",2,10,5,"Activated",NA,NA,NA,NA
+"US","US42","Survivor: 42",42,"Maryanne","US0619","USHI4202",3,17,9,"Played","Maryanne","US0619","Not needed",0
+"US","US42","Survivor: 42",42,"Drea","US0611","USHI4203",1,10,5,"Found",NA,NA,NA,NA
+"US","US42","Survivor: 42",42,"Drea","US0611","USHI4203",2,10,5,"Activated",NA,NA,NA,NA
+"US","US42","Survivor: 42",42,"Drea","US0611","USHI4203",3,17,9,"Played","Drea","US0611","Not needed",0
+"US","US42","Survivor: 42",42,"Drea","US0611","USKP4201",1,15,8,"Found",NA,NA,NA,NA
+"US","US42","Survivor: 42",42,"Drea","US0611","USKP4201",2,21,11,"Played","Mike","US0620","No",NA
+"US","US42","Survivor: 42",42,"Drea","US0611","USEV4201",2,21,11,"Played","Mike","US0620","No",NA
+"US","US42","Survivor: 42",42,"Drea","US0611","USAM4201",2,21,11,"Voted out with advantage",NA,NA,NA,NA
+"US","US42","Survivor: 42",42,"Maryanne","US0619","USEV4202",2,23,12,"Played","Omar","US0621","Yes",NA
+"US","US42","Survivor: 42",42,"Omar","US0621","USIN4201",1,8,4,"Found",NA,NA,NA,NA
+"US","US42","Survivor: 42",42,"Omar","US0621","USIN4201",2,23,12,"Voted out with advantage",NA,NA,NA,NA
+"US","US42","Survivor: 42",42,"Mike","US0620","USHI4201",5,24,13,"Played","Maryanne","US0619","Not needed",0
+"US","US42","Survivor: 42",42,"Maryanne","US0619","USHI4204",1,19,10,"Found",NA,NA,NA,NA
+"US","US42","Survivor: 42",42,"Maryanne","US0619","USHI4204",2,24,13,"Expired",NA,NA,NA,NA
+"US","US42","Survivor: 42",42,"Lindsay","US0616","USAM4203",2,23,12,"Expired",NA,NA,NA,NA
