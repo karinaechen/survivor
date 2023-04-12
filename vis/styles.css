@@ -1,0 +1,94 @@
+body {
+    font-family: 'Survivor';
+    -webkit-print-color-adjust: exact !important;
+    print-color-adjust:exact !important;
+}
+
+@font-face {
+    font-family: 'Survivor';
+    src: url(survivant.ttf);
+}
+
+.center_plot {
+    margin: auto;
+    text-align: center;
+}
+
+.title {
+    text-align: center;
+    background-color: darkseagreen;
+}
+
+h1 {
+    padding-top: 10px;
+    font-size: 75;
+}
+
+h2 {
+    font-size: 30;
+    font-family: 'Cairo';
+    padding-bottom: 15px;
+    margin-left: 105;
+    margin-right: 105;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+}
+
+div {
+    text-align: center;
+}
+
+span {
+    padding-left: 7;
+    padding-right: 7;
+    font-size: 30;
+    background-color: darkseagreen;
+}
+
+.plot-title {
+    font-family: 'Survivor';
+    font-weight: lighter;
+    font-size: 22;
+}
+
+.subtitle {
+    font-family: 'Cairo';
+}
+
+p {
+    margin-left: 105;
+    margin-right: 105;
+}
+
+.answer, .axis-label, #radio, #vis3_plot, #vis4_plot {
+    font-family: 'Cairo';
+}
+
+button {
+    position: absolute;
+    left: 75vw;
+    margin-top: 45px;
+    background-color: #2884cc;
+    border: 2px solid black;
+    border-color: black;
+    padding: 10px 17px;
+    color: white;
+    font-size: 15px;
+    cursor: pointer;
+    font-family: 'Cairo';
+}
+
+div.tooltip {
+    position: absolute;
+    text-align: center;
+    width: "fit-content";
+    height: "fit-content";
+    padding: 5px;
+    background: white;
+    pointer-events: none;
+}

@@ -1,0 +1,175 @@
+"version","version_season","season_name","season","advantage_id","advantage_type","clue_details","location_found","conditions"
+"US","US11","Survivor: Guatemala",11,"USHI1101","Hidden immunity idol","Found without clue","Found around camp","Play before votes are cast"
+"US","US12","Survivor: Panama",12,"USSI1201","Super idol","Found on Exile","Advantage from Exile","Play after votes are read; Valid until F4"
+"US","US13","Survivor: Cook Islands",13,"USSI1301","Super idol","Found on Exile","Advantage from Exile","Play after votes are read; Valid until F4"
+"US","US14","Survivor: Fiji",14,"USHI1401","Hidden immunity idol","Found on Exile","Found around camp",NA
+"US","US14","Survivor: Fiji",14,"USHI1402","Hidden immunity idol","Someone shared the clue","Found around camp",NA
+"US","US14","Survivor: Fiji",14,"USHI1403","Hidden immunity idol","Someone shared the clue","Found around camp",NA
+"US","US15","Survivor: China",15,"USHI1501","Hidden immunity idol","Someone shared the clue","Found around camp",NA
+"US","US15","Survivor: China",15,"USHI1502","Hidden immunity idol","Someone shared the clue","Found around camp",NA
+"US","US16","Survivor: Micronesia",16,"USHI1601","Hidden immunity idol","Found on Exile","Advantage from Exile",NA
+"US","US16","Survivor: Micronesia",16,"USHI1602","Hidden immunity idol","Found on Exile","Advantage from Exile",NA
+"US","US16","Survivor: Micronesia",16,"USHI1603","Hidden immunity idol","Found on Exile","Found around camp",NA
+"US","US17","Survivor: Gabon",17,"USHI1701","Hidden immunity idol","Found on Exile","Advantage from Exile","Valid until F6"
+"US","US17","Survivor: Gabon",17,"USHI1702","Hidden immunity idol","Found at reward","Found at reward","Valid until F6"
+"US","US18","Survivor: Tocantins",18,"USHI1801","Hidden immunity idol","Found on Exile","Found around camp","Valid until F6"
+"US","US18","Survivor: Tocantins",18,"USHI1802","Hidden immunity idol","Found on Exile","Found around camp","Valid until F6"
+"US","US19","Survivor: Samoa",19,"USHI1901","Hidden immunity idol","Found without clue","Found around camp","Valid until F6"
+"US","US19","Survivor: Samoa",19,"USHI1902","Hidden immunity idol","Found without clue","Found around camp","Valid until F6"
+"US","US19","Survivor: Samoa",19,"USHI1903","Hidden immunity idol","Found without clue","Found around camp","Valid until F6"
+"US","US19","Survivor: Samoa",19,"USHI1904","Hidden immunity idol","Found at reward","Found around camp","Valid until F6"
+"US","US20","Survivor: Heroes vs. Villains",20,"USHI2001","Hidden immunity idol","Found at reward","Found around camp","Valid until F6"
+"US","US20","Survivor: Heroes vs. Villains",20,"USHI2002","Hidden immunity idol","Found at reward","Found around camp","Valid until F6"
+"US","US20","Survivor: Heroes vs. Villains",20,"USHI2003","Hidden immunity idol","Found at reward","Found around camp","Valid until F6"
+"US","US20","Survivor: Heroes vs. Villains",20,"USHI2004","Hidden immunity idol","Found at reward","Found around camp","Valid until F6"
+"US","US20","Survivor: Heroes vs. Villains",20,"USHI2005","Hidden immunity idol","Someone shared the clue","Found around camp","Valid until F6"
+"US","US20","Survivor: Heroes vs. Villains",20,"USHI2006","Hidden immunity idol","Found at reward","Found around camp","Valid until F6"
+"US","US21","Survivor: Nicaragua",21,"USHI2101","Hidden immunity idol","Someone shared the clue","Found around camp","Valid until F6"
+"US","US21","Survivor: Nicaragua",21,"USHI2102","Hidden immunity idol","Found at reward","Found around camp","Valid until F6"
+"US","US22","Survivor: Redemption Island",22,"USHI2201","Hidden immunity idol","Found without clue","Found around camp",NA
+"US","US22","Survivor: Redemption Island",22,"USHI2202","Hidden immunity idol","Found without clue","Found around camp",NA
+"US","US22","Survivor: Redemption Island",22,"USHI2203","Hidden immunity idol","Found at reward","Found around camp",NA
+"US","US23","Survivor: South Pacific",23,"USHI2301","Hidden immunity idol","Found without clue","Found around camp",NA
+"US","US23","Survivor: South Pacific",23,"USHI2302","Hidden immunity idol","Someone shared the clue","Found around camp",NA
+"US","US24","Survivor: One World",24,"USHI2401","Hidden immunity idol","Found without clue","Found around camp","Idol was tribe-specific"
+"US","US24","Survivor: One World",24,"USHI2402","Hidden immunity idol","Found without clue","Found around camp",NA
+"US","US24","Survivor: One World",24,"USHI2403","Hidden immunity idol","Found at reward","Found around camp",NA
+"US","US25","Survivor: Philippines",25,"USHI2501","Hidden immunity idol","Found around camp","Found around camp",NA
+"US","US25","Survivor: Philippines",25,"USHI2502","Hidden immunity idol","Someone shared the clue","Found around camp",NA
+"US","US25","Survivor: Philippines",25,"USHI2503","Hidden immunity idol","Found without clue","Found around camp",NA
+"US","US26","Survivor: Caramoan",26,"USHI2601","Hidden immunity idol","Found without clue","Found around camp",NA
+"US","US26","Survivor: Caramoan",26,"USHI2602","Hidden immunity idol","Found without clue","Found around camp",NA
+"US","US26","Survivor: Caramoan",26,"USHI2603","Hidden immunity idol","Found without clue","Found around camp",NA
+"US","US26","Survivor: Caramoan",26,"USHI2604","Hidden immunity idol","Found without clue","Found around camp",NA
+"US","US26","Survivor: Caramoan",26,"USHI2605","Hidden immunity idol","Found at reward","Found around camp",NA
+"US","US27","Survivor: Blood vs. Water",27,"USHI2701","Hidden immunity idol","Someone shared the clue","Found around camp",NA
+"US","US27","Survivor: Blood vs. Water",27,"USHI2702","Hidden immunity idol","Someone shared the clue","Found around camp",NA
+"US","US28","Survivor: Cagayan",28,"USHI2801","Hidden immunity idol","Got clue from a morale dilemma","Found around camp",NA
+"US","US28","Survivor: Cagayan",28,"USHI2802","Hidden immunity idol","Found at reward","Found around camp",NA
+"US","US28","Survivor: Cagayan",28,"USHI2803","Hidden immunity idol","Found without clue","Found around camp",NA
+"US","US28","Survivor: Cagayan",28,"USHI2804","Hidden immunity idol","Found at reward","Found around camp",NA
+"US","US28","Survivor: Cagayan",28,"USSI2805","Super idol","Found without clue","Found around camp","Play after votes are read; Valid until F5"
+"US","US28","Survivor: Cagayan",28,"USHI2806","Hidden immunity idol","Got clue at auction","Found around camp",NA
+"US","US29","Survivor: San Juan del Sur",29,"USHI2901","Hidden immunity idol","Someone shared the clue","Found around camp",NA
+"US","US29","Survivor: San Juan del Sur",29,"USHI2902","Hidden immunity idol","Found on Exile","Found around camp",NA
+"US","US29","Survivor: San Juan del Sur",29,"USHI2903","Hidden immunity idol","Found on Exile","Advantage from Exile",NA
+"US","US29","Survivor: San Juan del Sur",29,"USHI2904","Hidden immunity idol","Someone shared the clue","Found around camp",NA
+"US","US29","Survivor: San Juan del Sur",29,"USHI2905","Hidden immunity idol","Found on Exile","Found around camp",NA
+"US","US30","Survivor: Worlds Apart",30,"USEV3001","Extra vote","No clue existed","Bought at Survivor Auction","Valid until F5"
+"US","US30","Survivor: Worlds Apart",30,"USHI3001","Hidden immunity idol","Found without clue","Found around camp",NA
+"US","US30","Survivor: Worlds Apart",30,"USHI3002","Hidden immunity idol","Found without clue","Found around camp",NA
+"US","US30","Survivor: Worlds Apart",30,"USHI3003","Hidden immunity idol","Found in challenge","Found around camp",NA
+"US","US31","Survivor: Cambodia",31,"USHI3101","Hidden immunity idol","Found around camp","Found in challenge",NA
+"US","US31","Survivor: Cambodia",31,"USHI3102","Hidden immunity idol","Found around camp","Found in challenge",NA
+"US","US31","Survivor: Cambodia",31,"USHI3103","Hidden immunity idol","Found around camp","Found around camp",NA
+"US","US31","Survivor: Cambodia",31,"USHI3104","Hidden immunity idol","Found in challenge","Found around camp",NA
+"US","US31","Survivor: Cambodia",31,"USVS3101","Steal a vote","No clue existed","Won at challenge","Non-transferrable"
+"US","US32","Survivor: Kaoh Rong",32,"USEV3201","Extra vote","No clue existed","Won at challenge","Valid until F5"
+"US","US32","Survivor: Kaoh Rong",32,"USHI3201","Hidden immunity idol","Found around camp","Found around camp","Part of a Super Idol that when combined with another, could be used after votes are read; Valid until F5"
+"US","US32","Survivor: Kaoh Rong",32,"USHI3202","Hidden immunity idol","Found around camp","Found around camp","Part of a Super Idol that when combined with another, could be used after votes are read; Valid until F5"
+"US","US32","Survivor: Kaoh Rong",32,"USHI3203","Hidden immunity idol","Found without clue","Found around camp",NA
+"US","US33","Survivor: Millennials vs. Gen X",33,"USHI3301","Hidden immunity idol","Found without clue","Found in challenge","Could only be played Day 36 or after"
+"US","US33","Survivor: Millennials vs. Gen X",33,"USHI3302","Hidden immunity idol","Found without clue","Found around camp",NA
+"US","US33","Survivor: Millennials vs. Gen X",33,"USHI3303","Hidden immunity idol","Found around camp","Found around camp",NA
+"US","US33","Survivor: Millennials vs. Gen X",33,"USHI3304","Hidden immunity idol","Found without clue","Found around camp",NA
+"US","US33","Survivor: Millennials vs. Gen X",33,"USHI3305","Hidden immunity idol","Found without clue","Found around camp",NA
+"US","US33","Survivor: Millennials vs. Gen X",33,"USHI3306","Hidden immunity idol","Found without clue","Found around camp",NA
+"US","US33","Survivor: Millennials vs. Gen X",33,"USRS3301","Reward stealer","No clue existed","Found around camp","Seemingly no conditions"
+"US","US34","Survivor: Game Changers",34,"USEV3401","Extra vote","No clue existed","Received on Exile","Chosen from Advantage Menu"
+"US","US34","Survivor: Game Changers",34,"USHI3401","Hidden immunity idol","No clue existed","Found in challenge","Legacy advantage; could only be used when there were 13 or 6 people left in game."
+"US","US34","Survivor: Game Changers",34,"USHI3402","Hidden immunity idol","Found around camp","Found in challenge",NA
+"US","US34","Survivor: Game Changers",34,"USHI3403","Hidden immunity idol","Found without clue","Found around camp",NA
+"US","US34","Survivor: Game Changers",34,"USHI3404","Hidden immunity idol","Found without clue","Found around camp",NA
+"US","US34","Survivor: Game Changers",34,"USHI3405","Hidden immunity idol","Found around camp","Found around camp",NA
+"US","US34","Survivor: Game Changers",34,"USHI3406","Hidden immunity idol","Found without clue","Found around camp",NA
+"US","US34","Survivor: Game Changers",34,"USVS3401","Steal a vote","No clue existed","Won at challenge","Non-transferrable"
+"US","US35","Survivor: Heroes vs. Healers vs. Hustlers",35,"USEV3501","Extra vote","No clue existed","Found at reward","Abstain from one vote before use"
+"US","US35","Survivor: Heroes vs. Healers vs. Hustlers",35,"USSI3501","Super idol","No clue existed","Found in challenge","Play after votes are read; could only be used at the first TC"
+"US","US35","Survivor: Heroes vs. Healers vs. Hustlers",35,"USHI3502","Hidden immunity idol","Found around camp","Found around camp","Valid until F5"
+"US","US35","Survivor: Heroes vs. Healers vs. Hustlers",35,"USHI3503","Hidden immunity idol","Found without clue","Found around camp","Valid until F5"
+"US","US35","Survivor: Heroes vs. Healers vs. Hustlers",35,"USHI3504","Hidden immunity idol","Found around camp","Found around camp","Valid until F5"
+"US","US35","Survivor: Heroes vs. Healers vs. Hustlers",35,"USHI3505","Hidden immunity idol","Found at reward","Found around camp","Valid until F5"
+"US","US35","Survivor: Heroes vs. Healers vs. Hustlers",35,"USHI3506","Hidden immunity idol","Found around camp","Found around camp","Valid until F5"
+"US","US35","Survivor: Heroes vs. Healers vs. Hustlers",35,"USHI3507","Hidden immunity idol","No clue existed","Found around camp","Was only half of an idol; had to find the other half at a challenge, which she did"
+"US","US35","Survivor: Heroes vs. Healers vs. Hustlers",35,"USHI3507b","Hidden immunity idol","Found around camp","Found in challenge","Was half of the idol, that was found at challenge."
+"US","US35","Survivor: Heroes vs. Healers vs. Hustlers",35,"USHI3508","Hidden immunity idol","Found around camp","Found around camp","Valid until F5"
+"US","US35","Survivor: Heroes vs. Healers vs. Hustlers",35,"USHI3509","Hidden immunity idol","Found without clue","Found around camp","Valid until F5"
+"US","US35","Survivor: Heroes vs. Healers vs. Hustlers",35,"USVB3501","Vote blocker","No clue existed","Found at reward","Must be used at next Tribal Council"
+"US","US36","Survivor: Ghost Island",36,"USEV3601","Extra vote","No clue existed","Won on Ghost Island",NA
+"US","US36","Survivor: Ghost Island",36,"USEV3602","Extra vote","No clue existed","Won on Ghost Island",NA
+"US","US36","Survivor: Ghost Island",36,"USHI3601","Hidden immunity idol","No clue existed","Advantage from Ghost Island","Legacy advantage; only good at 13 and 6 people left."
+"US","US36","Survivor: Ghost Island",36,"USHI3602","Hidden immunity idol","Found without clue","Found around camp","Valid until F5"
+"US","US36","Survivor: Ghost Island",36,"USHI3603","Hidden immunity idol","Found without clue","Found around camp","Valid until F5"
+"US","US36","Survivor: Ghost Island",36,"USHI3604","Hidden immunity idol","Found without clue","Found around camp","Valid until F5"
+"US","US36","Survivor: Ghost Island",36,"USHI3605","Hidden immunity idol","Found around camp","Found around camp","Valid until F5"
+"US","US36","Survivor: Ghost Island",36,"USHI3606","Hidden immunity idol","Found around camp","Advantage from Ghost Island","Only good at next Tribal Council; had the opportunity to extend its life"
+"US","US36","Survivor: Ghost Island",36,"USHI3607","Hidden immunity idol","Found without clue","Found around camp","Valid until F5"
+"US","US36","Survivor: Ghost Island",36,"USHI3607b","Hidden immunity idol","Found without clue","Found around camp","Valid until F5"
+"US","US37","Survivor: David vs. Goliath",37,"USHI3701","Hidden immunity idol","Found without clue","Found around camp","Valid until F5"
+"US","US37","Survivor: David vs. Goliath",37,"USHI3702","Hidden immunity idol","Found without clue","Found around camp","Valid until F5"
+"US","US37","Survivor: David vs. Goliath",37,"USHI3703","Hidden immunity idol","Found around camp","Found in challenge","Valid until F5"
+"US","US37","Survivor: David vs. Goliath",37,"USHI3704","Hidden immunity idol","Found without clue","Found around camp","Valid until F5"
+"US","US37","Survivor: David vs. Goliath",37,"USHI3705","Hidden immunity idol","Found around camp","Found around camp","Valid until F5"
+"US","US37","Survivor: David vs. Goliath",37,"USHI3706","Hidden immunity idol","Found around camp","Found around camp","Good only for the next tribal council"
+"US","US37","Survivor: David vs. Goliath",37,"USHI3707","Hidden immunity idol","Found around camp","Found around camp","Valid until F5"
+"US","US37","Survivor: David vs. Goliath",37,"USIN3701","Idol nullifier","Found on Exile","Found on Exile","Valid until F5"
+"US","US37","Survivor: David vs. Goliath",37,"USVS3701","Steal a vote","Found at reward","Found around camp",NA
+"US","US38","Survivor: Edge of Extinction",38,"USAD3801","Advantage menu","No clue existed","Found in challenge","Advantage menu; good until third Tribal Council (Day 8)"
+"US","US38","Survivor: Edge of Extinction",38,"USEV3801","Extra vote","Found on Edge of Exinction","Found on Edge of Extinction","Valid until F7"
+"US","US38","Survivor: Edge of Extinction",38,"USEV3802","Extra vote","Found on Edge of Exinction","Found on Edge of Extinction","Valid until F7"
+"US","US38","Survivor: Edge of Extinction",38,"USHI3801","Hidden immunity idol","Found without clue","Found around camp","Valid until F5"
+"US","US38","Survivor: Edge of Extinction",38,"USHI3802","Hidden immunity idol","Found without clue","Found around camp","Valid until F5"
+"US","US38","Survivor: Edge of Extinction",38,"USHI3803","Hidden immunity idol","Found without clue","Found around camp","Valid until F5"
+"US","US38","Survivor: Edge of Extinction",38,"USHI3804","Hidden immunity idol","No clue existed","Advantage from Edge of Extinction","Split idol; couldn't be used at the very next tribal council"
+"US","US38","Survivor: Edge of Extinction",38,"USHI3805","Hidden immunity idol","Found around camp","Found around camp","Valid until F5"
+"US","US38","Survivor: Edge of Extinction",38,"USHI3806","Hidden immunity idol","Found without clue","Found around camp","Valid until F5"
+"US","US38","Survivor: Edge of Extinction",38,"USHI3807","Hidden immunity idol","No clue existed","Advantage from Edge of Extinction","Split idol; couldn't be used at the very next tribal council"
+"US","US38","Survivor: Edge of Extinction",38,"USHI3808","Hidden immunity idol","Found without clue","Found around camp","Valid until F5"
+"US","US39","Survivor: Island of the Idols",39,"USHI3901","Hidden immunity idol","Found without clue","Found around camp","Valid until F5"
+"US","US39","Survivor: Island of the Idols",39,"USHI3902","Hidden immunity idol","No clue existed","Advantage from Island of the Idols","Valid for only two tribal councils"
+"US","US39","Survivor: Island of the Idols",39,"USHI3903","Hidden immunity idol","No clue existed","Advantage from Island of the Idols","Valid for only two tribal councils"
+"US","US39","Survivor: Island of the Idols",39,"USHI3904","Hidden immunity idol","Found without clue","Found around camp","Valid until F5"
+"US","US39","Survivor: Island of the Idols",39,"USHI3905","Hidden immunity idol","Found without clue","Found around camp","Valid until F5"
+"US","US39","Survivor: Island of the Idols",39,"USHI3906","Hidden immunity idol","Found without clue","Found around camp","Valid until F5"
+"US","US39","Survivor: Island of the Idols",39,"USHI3907","Hidden immunity idol","Found without clue","Found around camp","Valid until F5"
+"US","US39","Survivor: Island of the Idols",39,"USHI3908","Hidden immunity idol","Found without clue","Found around camp","Valid until F5"
+"US","US39","Survivor: Island of the Idols",39,"USHI3909","Hidden immunity idol","No clue existed","Found on Island of the Idols","Valid for only two tribal councils"
+"US","US39","Survivor: Island of the Idols",39,"USHI3910","Hidden immunity idol","Found without clue","Found around camp","Valid until F5"
+"US","US39","Survivor: Island of the Idols",39,"USHI3911","Hidden immunity idol","Found without clue","Found around camp","Valid until F5"
+"US","US39","Survivor: Island of the Idols",39,"USHI3912","Hidden immunity idol","Found around camp","Found around camp","Valid until F5"
+"US","US39","Survivor: Island of the Idols",39,"USIN3901","Idol nullifier","No clue existed","Won on Islands of the Idols","Valid until F5"
+"US","US39","Survivor: Island of the Idols",39,"USVB3901","Vote blocker","No clue existed","Won at challenge","Valid until F6"
+"US","US40","Survivor: Winners at War",40,"USHI4001","Hidden immunity idol","No clue existed","Sent from Edge of Extinction","Valid for next three tribal councils"
+"US","US40","Survivor: Winners at War",40,"USHI4002","Hidden immunity idol","Found without clue","Found around camp","Part of a split idol; valid until F5"
+"US","US40","Survivor: Winners at War",40,"USHI4002b","Hidden immunity idol","Found without clue","Found around camp","Part of a split idol; valid until F5"
+"US","US40","Survivor: Winners at War",40,"USHI4003","Hidden immunity idol","Found without clue","Found around camp","Part of a split idol; valid until F5"
+"US","US40","Survivor: Winners at War",40,"USHI4003b","Hidden immunity idol","Found without clue","Found around camp","Part of a split idol; valid until F5"
+"US","US40","Survivor: Winners at War",40,"USHI4004","Hidden immunity idol","Found without clue","Found around camp","Part of a split idol; valid until F5"
+"US","US40","Survivor: Winners at War",40,"USHI4004b","Hidden immunity idol","Found without clue","Found around camp","Part of a split idol; valid until F5"
+"US","US40","Survivor: Winners at War",40,"USHI4005","Hidden immunity idol","No clue existed","Sent from Edge of Extinction","50-50 coin flip for immediate immunity"
+"US","US40","Survivor: Winners at War",40,"USHI4006","Hidden immunity idol","Found without clue","Found around camp","Valid until F5"
+"US","US40","Survivor: Winners at War",40,"USHI4007","Hidden immunity idol","Found without clue","Found around camp","Valid until F5"
+"US","US40","Survivor: Winners at War",40,"USHI4008","Hidden immunity idol","No clue existed","Bought on Edge of Extinction","Valid until F5"
+"US","US40","Survivor: Winners at War",40,"USHI4009","Hidden immunity idol","Found without clue","Found around camp","Valid until F5"
+"US","US40","Survivor: Winners at War",40,"USIN4001","Idol nullifier","No clue existed","Found on Edge of Extinction","Valid until F5"
+"US","US40","Survivor: Winners at War",40,"USVS4001","Steal a vote","Found on Edge of Exinction","Found on Edge of Extinction",NA
+"US","US41","Survivor: 41",41,"USEV4101","Extra vote","No clue existed","Shipwheel Island","Valid until F6"
+"US","US41","Survivor: 41",41,"USEV4102","Extra vote","No clue existed","Shipwheel Island","Valid until F6"
+"US","US41","Survivor: 41",41,"USEV4103","Extra vote","No clue existed","Shipwheel Island","Valid until F6"
+"US","US41","Survivor: 41",41,"USHI4101","Hidden immunity idol","Found without clue","Found around camp","Beware advantage: all three tribal idols must be found and phrases must be said"
+"US","US41","Survivor: 41",41,"USHI4102","Hidden immunity idol","Found without clue","Found around camp","Beware advantage: all three tribal idols must be found and phrases must be said"
+"US","US41","Survivor: 41",41,"USHI4103","Hidden immunity idol","Found without clue","Found around camp","Beware advantage: all three tribal idols must be found and phrases must be said"
+"US","US41","Survivor: 41",41,"USHI4104","Hidden immunity idol","Found without clue","Found around camp","Beware advantage: all three tribal idols must be found and phrases must be said"
+"US","US41","Survivor: 41",41,"USKP4101","Knowledge is power","No clue existed","Found around camp",NA
+"US","US41","Survivor: 41",41,"USVS4101","Steal a vote","No clue existed","Shipwheel Island","Valid until F7"
+"US","US42","Survivor: 42",42,"USAM4201","Amulet","No clue existed","Found in challenge","Amulet: when in play 3) extra vote, 2) steal a vote, 1) immunity idol"
+"US","US42","Survivor: 42",42,"USAM4202","Amulet","No clue existed","Found in challenge","Amulet: when in play 3) extra vote, 2) steal a vote, 1) immunity idol"
+"US","US42","Survivor: 42",42,"USAM4203","Amulet","No clue existed","Found in challenge","Amulet: when in play 3) extra vote, 2) steal a vote, 1) immunity idol"
+"US","US42","Survivor: 42",42,"USEV4201","Extra vote","No clue existed","Shipwheel Island",NA
+"US","US42","Survivor: 42",42,"USEV4202","Extra vote","No clue existed","Shipwheel Island",NA
+"US","US42","Survivor: 42",42,"USHI4201","Hidden immunity idol","Found without clue","Found around camp","Beware advantage: all three tribal idols must be found and phrases must be said"
+"US","US42","Survivor: 42",42,"USHI4202","Hidden immunity idol","Found without clue","Found around camp","Beware advantage: all three tribal idols must be found and phrases must be said"
+"US","US42","Survivor: 42",42,"USHI4203","Hidden immunity idol","Found without clue","Found around camp","Beware advantage: all three tribal idols must be found and phrases must be said"
+"US","US42","Survivor: 42",42,"USKP4201","Knowledge is power","Found in challenge","Found around camp","Knowledge is Power"
+"US","US42","Survivor: 42",42,"USHI4204","Hidden immunity idol","Found without clue","Found around camp","Valid until F5"
+"US","US42","Survivor: 42",42,"USIN4201","Idol nullifier","Found without clue","Found around camp",NA

@@ -1,0 +1,185 @@
+<html>  
+<head>  
+    <script type="text/javascript" src="app.js"></script>
+    <title>Survivor - Karina Chen</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@300&display=swap" rel="stylesheet">
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+    <script src="https://d3js.org/d3-geo-projection.v2.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-legend/2.25.6/d3-legend.min.js"></script>
+    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico"/>
+</head>
+
+<body onload=survivor()> 
+
+<div>
+    <div class="title">
+        <h1 class="section">Outwit, Outplay, Outlast</h1>
+        <img src="survivorlogo.png" alt="survivor logo">
+        <h2 class="section">An Analysis of the Characteristics that Contribute to the Success of Contestants on Survivor</h2>
+    </div>
+
+    <br><br><br><br>
+    
+    <div>
+        <div id="vis1"> </div>
+        <span>Age</span>
+        <br><br>
+        <div id="vis1_plot" class="center_plot"></div>
+        <p class="question">Do older contestants have more votes cast against them?</p>
+        <p class="answer">
+            While from a glance it looks like there is no discrimination against older individuals, with
+            the number of votes against being about the same if not lower than the amount of votes against
+            younger individuals, the amount of total votes against a contestant is the total number of votes
+            that were cast against them their entire run in the game (before being voted out or making it to
+            the final). Therefore, if bias against older contestants was present, they would be voted out
+            early, and the number of votes against them would be low.
+            This visualization indicates to us that age does play some part in one's success as a contestant,
+            with older individuals generally not being as successful as younger individuals.
+        </p>
+        <p class="question">Design choices: </p>
+        <p class="answer">
+            Choice of color scheme: I chose green, as it goes with the theme of Survivor. <br>
+            Marks and channels: The only mark in this visualization are points (the circles). The channels
+            included are horizontal position and vertical position. <br>
+            Other: I chose to make the points slightly transparent because lots of points overlapped, so I
+            wanted to make sure the trends were accurately represented.
+        </p>
+        <br>
+    </div>
+
+    <br><br>
+
+    <div>
+        <div id="vis2"> </div>
+        <span>Personality Type</span>
+        <br><br>
+        <div id="vis2_plot" class="center_plot">
+            <button type="button", id="sort_button">Sort</button>
+        </div>
+        <p class="question">Do contestants of a certain personality type tend to be more successful?</p>
+        <p class="answer">
+            It does look like contestants with certain personality types do tend to be more successful. ISFP and
+            ESFP are tied for having the most individuals that made it to the jury - which generally means the
+            contestant made it at least halfway through before being voted out. It also looks like extroverted
+            personalities tend to make it farther, which make sense, as Survivor is largely a social game based on
+            your ability to form and maintain relationships with the other contestants.
+        </p>
+        <p class="question">Design choices: </p>
+        <p class="answer">
+            Choice of color scheme: Again, I chose green, as it goes with the theme of Survivor. <br>
+            Marks and channels: The only mark in this visualization are the figures of people. The channels included
+            are horizontal position and vertical position. <br>
+            Other: I chose to flip the x and y axes, because it is easier to visualize the pictogram when the figures
+            are next to each other instead of on top of each other. I also chose to add a sorting feature to this 
+            visualization because I thought it would be easier to observe the trends this way.
+        </p>
+        <br>
+    </div>
+
+    <br><br>
+
+    <div>
+        <span>Gender and Race</span>
+        <br><br>
+        <div id="radio" class="center_plot">
+            <input type="radio" id="vis3_both" name="stacked" value="Gender and Racial" checked="checked">
+            <label for="Gender and Racial">Both Gender and Race</label>
+            <input type="radio" id="vis3_gender" name="stacked" value="Gender">
+            <label for="Gender">Gender</label>
+            <input type="radio" id="vis3_poc" name="stacked" value="Racial">
+            <label for="Racial">Race</label>
+        </div>
+        <div id="vis3"> </div>
+        <div id="vis3_plot" class="center_plot"></div>
+        <p class="question">How does gender and race factor into success on the show?</p>
+        <p class="answer">
+            Taking into account the gender breakdown of each season, there is no obvious discrimination against one gender.
+            Similarly, taking into account the racial breakdown of each season, there is no obvious discrimination against
+            whites or contestants of color. Seasons 13 and 14 were especially diverse, with the cast in both seasons having
+            equal amounts of Asian-Americans, African-Americans, Hispanic-Americans, and European-Americans. 
+        </p>
+        <p class="question">Design choices: </p>
+        <p class="answer">
+            Choice of color scheme: For gender, I chose the general colors associated with each group - blue for males, pink
+            for females, and yellow for other. For race, I also followed this, choosing a lighter color for white contestants
+            and a darker color for contestants of color. For the plot with both, I just mixed the corresponding colors (for 
+            example, mixed blue and light brown for a white male) to get the resulting color for each group. I chose to do this
+            because I thought it would make it easier for the viewer to look at the graph and not have to constantly refer back
+            to the legend to see what color corresponded with which group. <br>
+            Marks and channels: The marks are lines, which are each of the bars. The channels are horizontal position, vertical
+            position, size (length), and color. <br>
+            Other: I chose to break this visualization down by season because each season has a different cast demographic. I
+            also chose to have three visualizations to see the breakdowns in more detail.
+        </p>
+        <br>
+    </div>
+
+    <br><br>
+
+    <div>
+        <div id="vis4"> </div>
+        <span>Hometown</span>
+        <div id="vis4_plot" class="center_plot"></div>
+        <p class="question">Where are winning players typically from?</p>
+        <p class="answer">
+            The state with the most winners is California, followed by New York and Pennsylvania. This makes sense, as
+            California has a large population. 
+        </p>
+        <p class="question">Design choices: </p>
+        <p class="answer">
+            Choice of color scheme: Again, I chose green, as it goes with the theme of Survivor. I chose to have the color get
+            darker the more winners there were because it follows the human natural concept of darker meaning denser, or having
+            more people. <br>
+            Marks and channels: The marks are areas, which are each of the states. The channel is color. <br>
+            Other: I used a tooltip to see the value for each state when hovering over it in order to remove any ambiguity
+            that could arise due to the color gradient.
+        </p>
+        <br>
+    </div>
+
+    <br><br>
+
+    <div>
+        <div id="vis5"> </div>
+        <span>Voting Patterns</span>
+        <br><br>
+        <div id="vis5_plot" class="center_plot"></div>
+        <p class="question">Are contestants that vote “correctly” typically the ones who win at the end?</p>
+        <p class="answer">
+            It is true that contestants who win or make it to the final tend to have more correct votes than those who not,
+            however, if someone is voted out earlier in the game, there is no opportunity for them to make any more votes, 
+            correct or incorrect. This visualization is better suited to look at the correct votes between the winner and runner
+            up(s), between which there is not much difference. 
+        </p>
+        <p class="question">Design choices: </p>
+        <p class="answer">
+            Choice of color scheme: Again, I chose green, as it goes with the theme of Survivor. I chose a lighter green for 
+            the box plot itself, and a darker green with some transparency for the points on top to distinguish the two. <br>
+            Marks and channels: The marks are circles, lines, and areas. The channels are horizontal position, vertical position,
+            and size (length). <br>
+            Other: I chose to display the individual points along with the box plot because I thought it would be helpful to
+            see where the actual contestants lie, as sometimes the box plot can be slightly misleading.
+        </p>
+        <br>
+    </div>
+
+    <br><br>
+
+    <div>
+        <span>Conclusion</span>
+        <p class="answer">
+            We can conclude that while there are inherent characteristics, such as age and personality type, that could affect a
+            contestant's success on Survivor, in general, contestants are successful because of the way that they play the game. 
+            Each winner's success cannot be attributed to factors such as gender or age or where they're from, but rather, more 
+            intricate factors including their gameplay, luck, and their relationships with other contestants.
+        </p>
+    </div>
+
+</div>
+   
+</body>  
+</html>  
