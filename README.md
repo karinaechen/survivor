@@ -1,2 +1,1 @@
-# survivor# survivor
 # survivor
